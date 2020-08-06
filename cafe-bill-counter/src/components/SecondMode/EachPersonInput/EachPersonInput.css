@@ -1,0 +1,20 @@
+.p-name{
+    display: inline-block;
+}
+
+.p-cash{
+    display: inline-block;
+}
+
+.input-name{
+    width: 100px;
+}
+
+.input-cash{
+    width: 100px;
+    margin: 0 10px;
+}
+
+.del-btn{
+    margin: 0 10px;
+}
